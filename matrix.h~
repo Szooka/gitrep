@@ -243,5 +243,5 @@ ostream & operator << (ostream & s, const CMatrix & temp)
 		
     return s;
   }
-/* iksdededede */
+
 #endif /* __MATRIX_H__ */
